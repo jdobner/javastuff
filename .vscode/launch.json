@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TopKFreqElements",
+            "request": "launch",
+            "mainClass": "TopKFreqElements",
+            "projectName": "javastuff_874ce59d"
+        },
+        {
+            "type": "java",
             "name": "Launch MostFrequentEven",
             "request": "launch",
             "mainClass": "MostFrequentEven",
